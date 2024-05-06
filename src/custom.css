@@ -1,0 +1,24 @@
+
+/* Top Bar */
+.region.top.bar {
+    font-family: 'Loubag', sans-serif; /* Change font to Loubag */
+}
+
+/* Bottom Left */
+.region.bottom.left {
+    font-family: 'Glacial-Indifference', sans-serif; /* Change font to Glacial-Indifference */
+}
+
+/* Top Left */
+.region.top.left {
+    font-family: 'Glacial-Indifference', sans-serif; /* Change font to Glacial-Indifference */
+}
+
+/* Bottom Right */
+.region.bottom.right {
+    font-family: 'Loubag', sans-serif; /* Change font to Loubag */
+}
+
+
+
+
