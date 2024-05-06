@@ -2,25 +2,10 @@
 
 /* Wrapper div styles*/
 .affirmations {
-    font-family: Arial, sans-serif;
+    font-family: 'Loubag', sans-serif;
     text-align: center;
     padding: 10px;
 }
 
-/* Styles for different sizes */
-.affirmations.xsmall {
-    font-size: 12px;
-}
 
-.affirmations.small {
-    font-size: 14px;
-}
-
-.affirmations.medium {
-    font-size: 16px;
-}
-
-.affirmations.large {
-    font-size: 18px;
-}
 
